@@ -5,7 +5,7 @@ use strict;
 # fourfours.pl
 #
 # Determines a solution set to the four fours game.
-# By Dann Stayskal <dann@stayskal.com> http://dann.stayskal.com/
+# By Danne Stayskal <danne@stayskal.com> http://danne.stayskal.com/
 # Released under MIT license.
 #
 # Here's the game:
@@ -75,6 +75,14 @@ my @expressions = (
 		},
 	},
 	{
+		'operation' => 'concat',
+		'do' => sub {
+			return 'unknown' if $_[0] =~ /\D/;
+			return 'unknown' if $_[1] =~ /\D/;
+			return $_[0] . $_[1];
+		},
+	},
+	{
 		'operation' => 'log',
 		'do' => sub { 
 			return 'unknown' if $_[0] <= 0 || $_[1] <= 0 || $_[1] == 1;
@@ -104,7 +112,7 @@ my @expressions = (
 ### Actually, let's play lots of games.
 my $playing_started_at = time();
 open('GAME_SCORES', '>', 'game_scores.txt') || die "Can't open game_scores.txt for writing.";
-foreach my $game (2..7){
+foreach my $game (4..4){
 	
 	my $game_started_at = time();
 	open('THIS_GAME', '>', "game_$game.txt") || die "Can't open game_$game.txt for writing.";

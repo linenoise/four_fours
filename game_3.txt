@@ -1,7 +1,7 @@
-0: 19 solutions available. First found: multiply(3,subtract(3,3))
+0: 20 solutions available. First found: multiply(3,subtract(3,3))
 1: 9 solutions available. First found: exponent(3,subtract(3,3))
 2: 4 solutions available. First found: subtract(3,divide(3,3))
-3: 23 solutions available. First found: modulus(3,add(3,3))
+3: 24 solutions available. First found: modulus(3,add(3,3))
 4: 4 solutions available. First found: add(3,divide(3,3))
 5: No solution available.
 6: 1 solutions available. First found: subtract(multiply(3,3),3)
@@ -9,9 +9,9 @@
 8: No solution available.
 9: 3 solutions available. First found: add(3,add(3,3))
 10: No solution available.
-11: No solution available.
+11: 1 solutions available. First found: divide(concat(3,3),3)
 12: 2 solutions available. First found: add(3,multiply(3,3))
-13: No solution available.
+13: 2 solutions available. First found: concat(divide(3,3),3)
 14: No solution available.
 15: No solution available.
 16: No solution available.
@@ -28,16 +28,16 @@
 27: 2 solutions available. First found: multiply(3,multiply(3,3))
 28: No solution available.
 29: No solution available.
-30: 2 solutions available. First found: add(3,exponent(3,3))
-31: No solution available.
+30: 5 solutions available. First found: concat(3,subtract(3,3))
+31: 2 solutions available. First found: concat(3,divide(3,3))
 32: No solution available.
 33: No solution available.
 34: No solution available.
 35: No solution available.
-36: No solution available.
+36: 3 solutions available. First found: concat(3,add(3,3))
 37: No solution available.
 38: No solution available.
-39: No solution available.
+39: 1 solutions available. First found: concat(3,multiply(3,3))
 40: No solution available.
 41: No solution available.
 42: No solution available.
@@ -61,7 +61,7 @@
 60: No solution available.
 61: No solution available.
 62: No solution available.
-63: No solution available.
+63: 1 solutions available. First found: concat(add(3,3),3)
 64: No solution available.
 65: No solution available.
 66: No solution available.
@@ -91,13 +91,13 @@
 90: No solution available.
 91: No solution available.
 92: No solution available.
-93: No solution available.
+93: 1 solutions available. First found: concat(multiply(3,3),3)
 94: No solution available.
 95: No solution available.
 96: No solution available.
 97: No solution available.
 98: No solution available.
-99: No solution available.
+99: 2 solutions available. First found: multiply(3,concat(3,3))
 100: No solution available.
 101: No solution available.
 102: No solution available.
@@ -271,7 +271,7 @@
 270: No solution available.
 271: No solution available.
 272: No solution available.
-273: No solution available.
+273: 1 solutions available. First found: concat(exponent(3,3),3)
 274: No solution available.
 275: No solution available.
 276: No solution available.
@@ -325,13 +325,13 @@
 324: No solution available.
 325: No solution available.
 326: No solution available.
-327: No solution available.
+327: 1 solutions available. First found: concat(3,exponent(3,3))
 328: No solution available.
 329: No solution available.
 330: No solution available.
 331: No solution available.
 332: No solution available.
-333: No solution available.
+333: 2 solutions available. First found: concat(3,concat(3,3))
 334: No solution available.
 335: No solution available.
 336: No solution available.

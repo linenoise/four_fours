@@ -1,64 +1,64 @@
-0: 445 solutions available. First found: add(4,subtract(4,add(4,4)))
-1: 282 solutions available. First found: divide(4,modulus(4,add(4,4)))
-2: 36 solutions available. First found: multiply(4,divide(4,add(4,4)))
-3: 20 solutions available. First found: subtract(4,exponent(4,subtract(4,4)))
-4: 153 solutions available. First found: modulus(4,add(4,add(4,4)))
+0: 389 solutions available. First found: add(4,subtract(4,add(4,4)))
+1: 254 solutions available. First found: divide(4,modulus(4,add(4,4)))
+2: 32 solutions available. First found: multiply(4,divide(4,add(4,4)))
+3: 19 solutions available. First found: subtract(4,exponent(4,subtract(4,4)))
+4: 127 solutions available. First found: modulus(4,add(4,add(4,4)))
 5: 22 solutions available. First found: add(4,exponent(4,subtract(4,4)))
 6: 9 solutions available. First found: add(4,divide(add(4,4),4))
-7: 9 solutions available. First found: add(4,subtract(4,divide(4,4)))
-8: 96 solutions available. First found: subtract(4,subtract(4,add(4,4)))
+7: 8 solutions available. First found: add(4,subtract(4,divide(4,4)))
+8: 89 solutions available. First found: subtract(4,subtract(4,add(4,4)))
 9: 12 solutions available. First found: add(4,add(4,divide(4,4)))
-10: 9 solutions available. First found: concat(divide(4,4),subtract(4,4))
-11: 4 solutions available. First found: concat(divide(4,4),divide(4,4))
-12: 8 solutions available. First found: multiply(4,subtract(4,divide(4,4)))
+10: No solution available.
+11: No solution available.
+12: 4 solutions available. First found: multiply(4,subtract(4,divide(4,4)))
 13: No solution available.
-14: 9 solutions available. First found: concat(exponent(4,subtract(4,4)),4)
-15: 4 solutions available. First found: add(4,divide(concat(4,4),4))
-16: 100 solutions available. First found: add(4,add(4,add(4,4)))
+14: No solution available.
+15: 2 solutions available. First found: subtract(multiply(4,4),divide(4,4))
+16: 93 solutions available. First found: add(4,add(4,add(4,4)))
 17: 4 solutions available. First found: add(divide(4,4),multiply(4,4))
-18: 6 solutions available. First found: add(4,concat(divide(4,4),4))
+18: No solution available.
 19: No solution available.
 20: 8 solutions available. First found: multiply(4,add(4,divide(4,4)))
-21: 1 solutions available. First found: divide(concat(add(4,4),4),4)
+21: No solution available.
 22: No solution available.
 23: No solution available.
-24: 9 solutions available. First found: add(4,add(4,multiply(4,4)))
+24: 6 solutions available. First found: add(4,add(4,multiply(4,4)))
 25: No solution available.
 26: No solution available.
 27: No solution available.
-28: 3 solutions available. First found: subtract(concat(4,4),multiply(4,4))
+28: 2 solutions available. First found: subtract(multiply(4,add(4,4)),4)
 29: No solution available.
 30: No solution available.
 31: No solution available.
 32: 2 solutions available. First found: divide(exponent(4,4),add(4,4))
 33: No solution available.
-34: 2 solutions available. First found: concat(subtract(4,divide(4,4)),4)
+34: No solution available.
 35: No solution available.
-36: 9 solutions available. First found: add(4,multiply(4,add(4,4)))
-37: 2 solutions available. First found: subtract(concat(4,divide(4,4)),4)
+36: 4 solutions available. First found: add(4,multiply(4,add(4,4)))
+37: No solution available.
 38: No solution available.
 39: No solution available.
-40: 20 solutions available. First found: concat(4,multiply(4,subtract(4,4)))
-41: 10 solutions available. First found: concat(4,exponent(4,subtract(4,4)))
-42: 3 solutions available. First found: concat(4,divide(add(4,4),4))
-43: 4 solutions available. First found: concat(4,subtract(4,divide(4,4)))
-44: 88 solutions available. First found: concat(4,modulus(4,add(4,4)))
-45: 12 solutions available. First found: concat(4,add(4,divide(4,4)))
+40: No solution available.
+41: No solution available.
+42: No solution available.
+43: No solution available.
+44: No solution available.
+45: No solution available.
 46: No solution available.
 47: No solution available.
 48: 6 solutions available. First found: multiply(4,add(4,add(4,4)))
 49: No solution available.
 50: No solution available.
 51: No solution available.
-52: 8 solutions available. First found: add(4,concat(4,add(4,4)))
+52: No solution available.
 53: No solution available.
-54: 4 solutions available. First found: concat(add(4,divide(4,4)),4)
+54: No solution available.
 55: No solution available.
-56: 4 solutions available. First found: multiply(4,concat(divide(4,4),4))
+56: No solution available.
 57: No solution available.
 58: No solution available.
 59: No solution available.
-60: 5 solutions available. First found: add(concat(4,4),multiply(4,4))
+60: 3 solutions available. First found: subtract(multiply(4,multiply(4,4)),4)
 61: No solution available.
 62: No solution available.
 63: 1 solutions available. First found: divide(subtract(exponent(4,4),4),4)
@@ -78,15 +78,15 @@
 77: No solution available.
 78: No solution available.
 79: No solution available.
-80: 7 solutions available. First found: multiply(4,add(4,multiply(4,4)))
-81: 6 solutions available. First found: concat(add(4,4),divide(4,4))
+80: 4 solutions available. First found: multiply(4,add(4,multiply(4,4)))
+81: 4 solutions available. First found: exponent(subtract(4,divide(4,4)),4)
 82: No solution available.
 83: No solution available.
 84: No solution available.
 85: No solution available.
 86: No solution available.
 87: No solution available.
-88: 4 solutions available. First found: add(4,concat(add(4,4),4))
+88: No solution available.
 89: No solution available.
 90: No solution available.
 91: No solution available.
@@ -102,19 +102,19 @@
 101: No solution available.
 102: No solution available.
 103: No solution available.
-104: 1 solutions available. First found: divide(concat(4,multiply(4,4)),4)
+104: No solution available.
 105: No solution available.
 106: No solution available.
 107: No solution available.
 108: No solution available.
 109: No solution available.
 110: No solution available.
-111: 2 solutions available. First found: divide(concat(4,concat(4,4)),4)
+111: No solution available.
 112: No solution available.
 113: No solution available.
-114: 1 solutions available. First found: concat(divide(concat(4,4),4),4)
+114: No solution available.
 115: No solution available.
-116: 2 solutions available. First found: concat(divide(4,4),multiply(4,4))
+116: No solution available.
 117: No solution available.
 118: No solution available.
 119: No solution available.
@@ -122,7 +122,7 @@
 121: No solution available.
 122: No solution available.
 123: No solution available.
-124: 3 solutions available. First found: concat(add(4,add(4,4)),4)
+124: No solution available.
 125: No solution available.
 126: No solution available.
 127: No solution available.
@@ -142,7 +142,7 @@
 141: No solution available.
 142: No solution available.
 143: No solution available.
-144: 4 solutions available. First found: concat(divide(4,4),concat(4,4))
+144: No solution available.
 145: No solution available.
 146: No solution available.
 147: No solution available.
@@ -158,19 +158,19 @@
 157: No solution available.
 158: No solution available.
 159: No solution available.
-160: 9 solutions available. First found: multiply(4,concat(4,subtract(4,4)))
-161: 2 solutions available. First found: concat(multiply(4,4),divide(4,4))
+160: No solution available.
+161: No solution available.
 162: No solution available.
 163: No solution available.
-164: 4 solutions available. First found: multiply(4,concat(4,divide(4,4)))
+164: No solution available.
 165: No solution available.
 166: No solution available.
 167: No solution available.
-168: 3 solutions available. First found: add(4,concat(multiply(4,4),4))
+168: No solution available.
 169: No solution available.
 170: No solution available.
 171: No solution available.
-172: 2 solutions available. First found: subtract(multiply(4,concat(4,4)),4)
+172: No solution available.
 173: No solution available.
 174: No solution available.
 175: No solution available.
@@ -178,7 +178,7 @@
 177: No solution available.
 178: No solution available.
 179: No solution available.
-180: 4 solutions available. First found: add(4,multiply(4,concat(4,4)))
+180: No solution available.
 181: No solution available.
 182: No solution available.
 183: No solution available.
@@ -190,7 +190,7 @@
 189: No solution available.
 190: No solution available.
 191: No solution available.
-192: 6 solutions available. First found: multiply(4,concat(4,add(4,4)))
+192: No solution available.
 193: No solution available.
 194: No solution available.
 195: No solution available.
@@ -202,7 +202,7 @@
 201: No solution available.
 202: No solution available.
 203: No solution available.
-204: 2 solutions available. First found: concat(add(4,multiply(4,4)),4)
+204: No solution available.
 205: No solution available.
 206: No solution available.
 207: No solution available.
@@ -210,7 +210,7 @@
 209: No solution available.
 210: No solution available.
 211: No solution available.
-212: 1 solutions available. First found: subtract(exponent(4,4),concat(4,4))
+212: No solution available.
 213: No solution available.
 214: No solution available.
 215: No solution available.
@@ -254,7 +254,7 @@
 253: No solution available.
 254: No solution available.
 255: 2 solutions available. First found: subtract(exponent(4,4),divide(4,4))
-256: 93 solutions available. First found: exponent(4,modulus(4,add(4,4)))
+256: 87 solutions available. First found: exponent(4,modulus(4,add(4,4)))
 257: 4 solutions available. First found: add(divide(4,4),exponent(4,4))
 258: No solution available.
 259: No solution available.
@@ -298,7 +298,7 @@
 297: No solution available.
 298: No solution available.
 299: No solution available.
-300: 2 solutions available. First found: add(concat(4,4),exponent(4,4))
+300: No solution available.
 301: No solution available.
 302: No solution available.
 303: No solution available.
@@ -322,7 +322,7 @@
 321: No solution available.
 322: No solution available.
 323: No solution available.
-324: 2 solutions available. First found: concat(multiply(4,add(4,4)),4)
+324: No solution available.
 325: No solution available.
 326: No solution available.
 327: No solution available.
@@ -334,7 +334,7 @@
 333: No solution available.
 334: No solution available.
 335: No solution available.
-336: 2 solutions available. First found: multiply(4,concat(add(4,4),4))
+336: No solution available.
 337: No solution available.
 338: No solution available.
 339: No solution available.
@@ -350,7 +350,7 @@
 349: No solution available.
 350: No solution available.
 351: No solution available.
-352: 2 solutions available. First found: multiply(concat(4,4),add(4,4))
+352: No solution available.
 353: No solution available.
 354: No solution available.
 355: No solution available.
@@ -402,23 +402,23 @@
 401: No solution available.
 402: No solution available.
 403: No solution available.
-404: 5 solutions available. First found: concat(4,concat(subtract(4,4),4))
+404: No solution available.
 405: No solution available.
 406: No solution available.
 407: No solution available.
 408: No solution available.
 409: No solution available.
 410: No solution available.
-411: 1 solutions available. First found: concat(4,divide(concat(4,4),4))
-412: 4 solutions available. First found: concat(4,add(4,add(4,4)))
+411: No solution available.
+412: No solution available.
 413: No solution available.
-414: 4 solutions available. First found: concat(4,concat(divide(4,4),4))
+414: No solution available.
 415: No solution available.
 416: No solution available.
 417: No solution available.
 418: No solution available.
 419: No solution available.
-420: 4 solutions available. First found: concat(4,add(4,multiply(4,4)))
+420: No solution available.
 421: No solution available.
 422: No solution available.
 423: No solution available.
@@ -430,7 +430,7 @@
 429: No solution available.
 430: No solution available.
 431: No solution available.
-432: 2 solutions available. First found: concat(4,multiply(4,add(4,4)))
+432: No solution available.
 433: No solution available.
 434: No solution available.
 435: No solution available.
@@ -438,15 +438,15 @@
 437: No solution available.
 438: No solution available.
 439: No solution available.
-440: 7 solutions available. First found: concat(4,concat(4,subtract(4,4)))
-441: 4 solutions available. First found: concat(4,concat(4,divide(4,4)))
+440: No solution available.
+441: No solution available.
 442: No solution available.
 443: No solution available.
 444: No solution available.
 445: No solution available.
 446: No solution available.
 447: No solution available.
-448: 8 solutions available. First found: concat(4,concat(4,add(4,4)))
+448: No solution available.
 449: No solution available.
 450: No solution available.
 451: No solution available.
@@ -462,7 +462,7 @@
 461: No solution available.
 462: No solution available.
 463: No solution available.
-464: 3 solutions available. First found: concat(4,multiply(4,multiply(4,4)))
+464: No solution available.
 465: No solution available.
 466: No solution available.
 467: No solution available.
@@ -482,7 +482,7 @@
 481: No solution available.
 482: No solution available.
 483: No solution available.
-484: 4 solutions available. First found: concat(4,concat(add(4,4),4))
+484: No solution available.
 485: No solution available.
 486: No solution available.
 487: No solution available.
@@ -639,10 +639,10 @@
 638: No solution available.
 639: No solution available.
 640: No solution available.
-641: 1 solutions available. First found: divide(concat(exponent(4,4),4),4)
+641: No solution available.
 642: No solution available.
 643: No solution available.
-644: 3 solutions available. First found: concat(multiply(4,multiply(4,4)),4)
+644: No solution available.
 645: No solution available.
 646: No solution available.
 647: No solution available.
@@ -654,7 +654,7 @@
 653: No solution available.
 654: No solution available.
 655: No solution available.
-656: 2 solutions available. First found: multiply(4,concat(multiply(4,4),4))
+656: No solution available.
 657: No solution available.
 658: No solution available.
 659: No solution available.
@@ -702,7 +702,7 @@
 701: No solution available.
 702: No solution available.
 703: No solution available.
-704: 6 solutions available. First found: multiply(4,multiply(4,concat(4,4)))
+704: No solution available.
 705: No solution available.
 706: No solution available.
 707: No solution available.
@@ -814,7 +814,7 @@
 813: No solution available.
 814: No solution available.
 815: No solution available.
-816: 1 solutions available. First found: concat(add(4,4),multiply(4,4))
+816: No solution available.
 817: No solution available.
 818: No solution available.
 819: No solution available.
@@ -842,7 +842,7 @@
 841: No solution available.
 842: No solution available.
 843: No solution available.
-844: 2 solutions available. First found: concat(add(4,4),concat(4,4))
+844: No solution available.
 845: No solution available.
 846: No solution available.
 847: No solution available.
@@ -1062,7 +1062,7 @@
 1061: No solution available.
 1062: No solution available.
 1063: No solution available.
-1064: 1 solutions available. First found: divide(concat(4,exponent(4,4)),4)
+1064: No solution available.
 1065: No solution available.
 1066: No solution available.
 1067: No solution available.
@@ -1254,7 +1254,7 @@
 1253: No solution available.
 1254: No solution available.
 1255: No solution available.
-1256: 2 solutions available. First found: concat(divide(4,4),exponent(4,4))
+1256: No solution available.
 1257: No solution available.
 1258: No solution available.
 1259: No solution available.
@@ -1614,7 +1614,7 @@
 1613: No solution available.
 1614: No solution available.
 1615: No solution available.
-1616: 1 solutions available. First found: concat(multiply(4,4),multiply(4,4))
+1616: No solution available.
 1617: No solution available.
 1618: No solution available.
 1619: No solution available.
@@ -1642,7 +1642,7 @@
 1641: No solution available.
 1642: No solution available.
 1643: No solution available.
-1644: 2 solutions available. First found: concat(multiply(4,4),concat(4,4))
+1644: No solution available.
 1645: No solution available.
 1646: No solution available.
 1647: No solution available.
@@ -1662,7 +1662,7 @@
 1661: No solution available.
 1662: No solution available.
 1663: No solution available.
-1664: 2 solutions available. First found: multiply(4,concat(4,multiply(4,4)))
+1664: No solution available.
 1665: No solution available.
 1666: No solution available.
 1667: No solution available.
@@ -1762,7 +1762,7 @@
 1761: No solution available.
 1762: No solution available.
 1763: No solution available.
-1764: 2 solutions available. First found: concat(multiply(4,concat(4,4)),4)
+1764: No solution available.
 1765: No solution available.
 1766: No solution available.
 1767: No solution available.
@@ -1774,7 +1774,7 @@
 1773: No solution available.
 1774: No solution available.
 1775: No solution available.
-1776: 4 solutions available. First found: multiply(4,concat(4,concat(4,4)))
+1776: No solution available.
 1777: No solution available.
 1778: No solution available.
 1779: No solution available.
@@ -1934,7 +1934,7 @@
 1933: No solution available.
 1934: No solution available.
 1935: No solution available.
-1936: 1 solutions available. First found: multiply(concat(4,4),concat(4,4))
+1936: No solution available.
 1937: No solution available.
 1938: No solution available.
 1939: No solution available.
@@ -2522,7 +2522,7 @@
 2521: No solution available.
 2522: No solution available.
 2523: No solution available.
-2524: 1 solutions available. First found: concat(subtract(exponent(4,4),4),4)
+2524: No solution available.
 2525: No solution available.
 2526: No solution available.
 2527: No solution available.
@@ -2558,15 +2558,15 @@
 2557: No solution available.
 2558: No solution available.
 2559: No solution available.
-2560: 3 solutions available. First found: concat(exponent(4,4),subtract(4,4))
-2561: 2 solutions available. First found: concat(exponent(4,4),divide(4,4))
+2560: No solution available.
+2561: No solution available.
 2562: No solution available.
 2563: No solution available.
 2564: No solution available.
 2565: No solution available.
 2566: No solution available.
 2567: No solution available.
-2568: 3 solutions available. First found: add(4,concat(exponent(4,4),4))
+2568: No solution available.
 2569: No solution available.
 2570: No solution available.
 2571: No solution available.
@@ -2602,7 +2602,7 @@
 2601: No solution available.
 2602: No solution available.
 2603: No solution available.
-2604: 2 solutions available. First found: concat(add(4,exponent(4,4)),4)
+2604: No solution available.
 2605: No solution available.
 2606: No solution available.
 2607: No solution available.
@@ -4162,7 +4162,7 @@
 4161: No solution available.
 4162: No solution available.
 4163: No solution available.
-4164: 2 solutions available. First found: concat(4,concat(multiply(4,4),4))
+4164: No solution available.
 4165: No solution available.
 4166: No solution available.
 4167: No solution available.
@@ -4174,7 +4174,7 @@
 4173: No solution available.
 4174: No solution available.
 4175: No solution available.
-4176: 2 solutions available. First found: concat(4,multiply(4,concat(4,4)))
+4176: No solution available.
 4177: No solution available.
 4178: No solution available.
 4179: No solution available.
@@ -4250,7 +4250,7 @@
 4249: No solution available.
 4250: No solution available.
 4251: No solution available.
-4252: 2 solutions available. First found: concat(4,subtract(exponent(4,4),4))
+4252: No solution available.
 4253: No solution available.
 4254: No solution available.
 4255: No solution available.
@@ -4258,7 +4258,7 @@
 4257: No solution available.
 4258: No solution available.
 4259: No solution available.
-4260: 4 solutions available. First found: concat(4,add(4,exponent(4,4)))
+4260: No solution available.
 4261: No solution available.
 4262: No solution available.
 4263: No solution available.
@@ -4414,7 +4414,7 @@
 4413: No solution available.
 4414: No solution available.
 4415: No solution available.
-4416: 2 solutions available. First found: concat(4,concat(4,multiply(4,4)))
+4416: No solution available.
 4417: No solution available.
 4418: No solution available.
 4419: No solution available.
@@ -4442,7 +4442,7 @@
 4441: No solution available.
 4442: No solution available.
 4443: No solution available.
-4444: 5 solutions available. First found: concat(4,concat(4,concat(4,4)))
+4444: No solution available.
 4445: No solution available.
 4446: No solution available.
 4447: No solution available.
@@ -8254,7 +8254,7 @@
 8253: No solution available.
 8254: No solution available.
 8255: No solution available.
-8256: 1 solutions available. First found: concat(add(4,4),exponent(4,4))
+8256: No solution available.
 8257: No solution available.
 8258: No solution available.
 8259: No solution available.

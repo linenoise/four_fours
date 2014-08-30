@@ -20,7 +20,7 @@
 19: No solution available.
 20: No solution available.
 21: No solution available.
-22: No solution available.
+22: 1 solutions available. First found: concat(2,2)
 23: No solution available.
 24: No solution available.
 25: No solution available.
